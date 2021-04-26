@@ -10,10 +10,10 @@ questions =
             "Alliance potential is overrated"    
         ],
         [//1
-            "The theory of international relations can do without the internal dimension of states. All states proceed from the same and simple premises"
+            "All states proceed from the same and simple premises"
         ],
         [//-1
-            "IR needs a clear theory of foreign policy. The behavior of states may not be strategic and may differ from actor to actor"
+            "The behavior of states cannot be understood without understanding their political order"
         ],
         [//-2
             "In conditions of hegemony, the only one who is safe is this small state"
@@ -37,7 +37,7 @@ questions =
             "No cost can stop a powerful enough state"
         ],
         [//-1
-            "Power largely consists of resources and dependencies; capabilities, however great they may be, may never be realized"
+            "Power largely consists of dependencies; capabilities, however great they may be, may never be realized"
         ],
         [//-2
              "The size of the state is not decisive in avoiding coercive influence"
@@ -52,7 +52,7 @@ questions =
             "Conflicts can’t be overcome, as they are caused by the abiding impulses of human lust for power and reasonlessness"
         ],
         [//3
-            "States are struggling for maximum power in search of security. Their actions determine rational and selfish human attitudes"
+            "States' actions determine human attitudes"
         ],
         [//2
             "International politics is dominated by human impulses and motives"
@@ -61,7 +61,7 @@ questions =
             "Any state as a rational actor can come to conclusions about the unreasonableness of cooperation"
         ],
         [//-1
-            "Sovereignty can be violated insofar as it is beneficial to everyone: those who interfere and those where former interfere"
+            "Sovereignty can be violated insofar as it is beneficial to everyone"
         ],
         [//-2
             "The formation of the agenda is based on maximizing utility"
@@ -70,7 +70,7 @@ questions =
             "Power of states is determined by what motives are driving them, what information they possess and what material capabilities they have"
         ],
         [//-4
-            "Material capabilities aside, the most powerful state is the one that achieves the best results at the lowest cost. This would mean being fully informed.  "
+            "The most powerful state is the one that achieves the best results at the lowest cost"
         ]],[//Securitizationist-Politizationist`
         [//4
             "National interests must be expanded without any political dialogue."
@@ -94,7 +94,7 @@ questions =
             "Any activity of states should become public knowledge and policy-making"
         ],
         [//-4
-            "One of the pressing issues of security is to prevent it from leaving the political field, freeing the actions of states from justification by the international community and civil society" 
+            "The main issue of security is to prevent it evasion from evaluation by the international community and civil society" 
         ]],[//Statist-Individualist`
         [//4
             "The nation-state should be the only unit of analysis"
@@ -103,10 +103,10 @@ questions =
             "The categories of moral values are not applicable to states as they are applicable to individuals"
         ],
         [//2
-            "The behavior of states is determined not by the individual, butV by the very structure of international politics."
+            "The behavior of states is determined not by the individual, but the very structure of international politics"
         ],
         [//1
-            "We can change the degree of anarchy of the system, but its incentives, and therefore the interests of states, cannot"
+            "We can reduce the degree of anarchy of the system, but we cannot force states to abandon their interests"
         ],
         [//-1
             "The effectiveness of coercion cannot be described in terms of absolute loss of profits for a state"
@@ -118,7 +118,7 @@ questions =
             "States can proceed from their own principles, which cannot be reduced to such concepts as power or domination"
         ],
         [//-4
-            "It is wrong to consider the state in isolation from the individuals that form it and for the most of whom the conflict is disgusted"
+            "It is wrong to consider the state in isolation from the individuals"
         ]],[//Actors-Structures`
         [//4
             "Power  is an attribute of states and nothing more"
@@ -130,19 +130,19 @@ questions =
             "Any state of the international system is the result of a balance of power"
         ],
         [//1
-            "If states are not fully responsible for their policies, then it is useless to study international relations."
+            "If states are not fully responsible for their policies, then it is useless to study international relations"
         ],
         [//-1
-            "Power is a strategic situation. It can be understood only by having information about the state of societies and the patterns they follow"
+            "Power can be understood only by having information about the state of societies and the patterns they follow"
         ],
         [//-2
             "Taming anarchy with the identity of the peace is the best way to achieve it"
         ],
         [//-3
-            "All values, both within and outside states, are relative, competing versions of truth. And the truth subordinates, here is its meaning in IR"
+            "All values, both within and outside states, are relative, competing versions of truth"
         ],
         [//-4
-            "Neither the state nor the individual can free itself from structural coercion; the international structure can thus be called a dictatorship rather than an anarchy"
+            "One must call the international structure a dictatorship: neither the state nor the individual can free itself from structural coercion"
         ]],[//Nationalist-Internationalist`
 	    [//4
             "An interest common to a certain number of states cannot exist"
@@ -151,7 +151,7 @@ questions =
             "The international system is in a conflict-free state insofar as it benefits and does not threaten powers great enough to support it"
         ],
         [//2
-            "Paying tribute to international organizations, the nation state however was and will be a unit of analysis outside of any form of world government"
+            "The nation state however was and will be a unit of analysis outside of any form of world government"
         ],
         [//1
             "The only option for cooperation is cooperation in the national interest"
@@ -163,9 +163,9 @@ questions =
             "Cooperation is not unavoidable, but it increases when the state has the necessary institutions such as democracy and fairplay"
         ],
         [//-3
-            "The issues of political community and democracy have long gone beyond the rigid framework of national sovereignty. So why don't we give it up?"
+            "Sovereignty can no longer be a matter of states, just as democracy or political community ceased to be"
         ],
         [//-4
-            "Cooperation in common interests, contrary to national, is possible and preferable",
+            "Cooperation in common interests, contrary to national, is possible and preferable"
         ]
     ]];
