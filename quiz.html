@@ -37,7 +37,7 @@
         for(var i = 0; i < 7; i++) //Number of Axes
         {
             var c = Math.random()<0.5;
-            for(var j = 0; j < 5; j++) //Number of questions per axis
+            for(var j = 0; j < 4; j++) //Number of questions per axis
             {
                 var m = [i,c?t[j]:(8-t[j]),Math.floor(Math.random()*questions[i][c?t[j]:(8-t[j])].length)];
                 qs.push(m);
