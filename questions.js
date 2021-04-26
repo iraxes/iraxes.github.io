@@ -151,7 +151,7 @@ questions =
             "The international system is in a conflict-free state insofar as it benefits and does not threaten powers great enough to support it"
         ],
         [//2
-            "The nation state however was and will be a unit of analysis outside of any form of world government"
+            "The nation state was and will be a unit of analysis outside of any form of world government"
         ],
         [//1
             "The only option for cooperation is cooperation in the national interest"
